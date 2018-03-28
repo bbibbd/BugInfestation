@@ -4,7 +4,8 @@ import java.util.Scanner;	//import the class Scanner
 /**
  * the class named BugInfestation
  * User will input the volume of the house, estimated number of roaches in the house.
- * Then the program will calculates how many 
+ * Then the program calculates how long it takes for the roaches to fill the house,
+   and how many roaches are inside after that.
  * the output shows the result of summation, subtraction, multiplication of num1 and num2, and  
    quotient and remains of num1/num2
  * @author KKB
