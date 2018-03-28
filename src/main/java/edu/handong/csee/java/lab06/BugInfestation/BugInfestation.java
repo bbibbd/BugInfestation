@@ -1,4 +1,4 @@
-package edu.handong.csee.java.lab06.BugInfestation;
+package edu.handong.csee.java.lab06.BugInfestation;	//the package name and the directory
 import java.util.Scanner;
 
 public class BugInfestation {
